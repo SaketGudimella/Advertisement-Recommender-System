@@ -1,9 +1,9 @@
-#Advertisement Click Recommender System
+# Advertisement Click Recommender System
 
 This project implements a recommender system for advertisements based on click data. It utilizes the Surprise library (which provides collaborative filtering algorithms for recommendation tasks) for building and evaluating recommender systems. Data analysis and visualization are performed using pandas, seaborn, and matplotlib. Moreover, SVD algorithm is used to train the model and make predictions. The recommender system suggests advertisements to users based on their interactions.
 
 
-##Installation
+## Installation
 
 To run the project, follow these steps:
 
@@ -11,7 +11,7 @@ Clone the repository to your local machine.
 Install the required dependencies by running pip install -r requirements.txt.
 Ensure that you have Python 3.x installed on your system.
 
-##Data
+## Data
 
 The dataset used in this project is a CSV file containing the following categorical variables:
 
@@ -27,13 +27,13 @@ Timestamp: Time at which consumer clicked on Ad or closed window
 Clicked on Ad: 0 or 1 indicated clicking on Ad
 
 
-##Contributing
+## Contributing
 
 If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request. This initiative will be really appreciated.
 
 
 
-##References
+## References
 
 1) https://www.kaggle.com/datasets/gabrielsantello/advertisement-click-on-ad - Kaggle
 2) https://www.youtube.com/watch?v=9gBC9R-msAk - Youtube
