@@ -7,23 +7,32 @@ This project implements a recommender system for advertisements based on click d
 
 To run the project, follow these steps:
 
-Clone the repository to your local machine.
-Install the required dependencies by running pip install -r requirements.txt.
-Ensure that you have Python 3.x installed on your system.
+1) Clone the repository to your local machine.
+2) Install the required dependencies by running pip install -r requirements.txt.
+3) Ensure that you have Python 3.x installed on your system.
 
 ## Data
 
 The dataset used in this project is a CSV file containing the following categorical variables:
 
 Daily Time Spent on Site: consumer time on site in minutes
+
 Age: customer age in years
+
 Area Income: Avg. Income of geographical area of consumer
+
 Daily Internet Usage: Avg. minutes a day consumer is on the internet
+
 Ad Topic Line: Headline of the advertisement
+
 City: City of consumer
+
 Male: Whether or not consumer was male
+
 Country: Country of consumer
+
 Timestamp: Time at which consumer clicked on Ad or closed window
+
 Clicked on Ad: 0 or 1 indicated clicking on Ad
 
 
