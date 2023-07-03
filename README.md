@@ -37,7 +37,6 @@ Clicked on Ad: 0 or 1 indicated clicking on Ad
 
 
 ## Contributing
-
 If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request. This initiative will be really appreciated.
 
 
