@@ -37,7 +37,8 @@ Clicked on Ad: 0 or 1 indicated clicking on Ad
 
 
 ## Contributing
-If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request. A huge update is coming.
+If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request. 
+
 ## References
 
 1) https://www.kaggle.com/datasets/gabrielsantello/advertisement-click-on-ad - Kaggle
